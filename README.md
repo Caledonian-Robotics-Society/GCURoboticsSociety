@@ -1,0 +1,1 @@
+This is the official reposiory for the Caledonian Robotics Society Sumo robot project. This project was started on 22nd of October 2024. This repository contains the official releases of the sumo bot code, in addition to smaller pats of the code and updates.
