@@ -23,13 +23,27 @@ The Files have the following structure:  *(update when needed)*
 ``` 
 main
 ├── Assets
-├── AutoSumo
-│   └── V1.0
-├── LineFollower
-│   └──V1.0
-├── ManualSumo
-│   └── V1.0
-└── README.md
+│   └── Logo.png
+├── ExampleCode
+│   ├── BT_RECEIVER.ino
+│   └── MAC_adress_finder.ino
+├── README.md
+└── Teams
+    ├── AutoSumo
+    │   └── V1.0
+    │       ├── Basic_Working.ino
+    │       ├── Motor_Functions.ino
+    │       ├── Motor_Movement.ino
+    │       ├── Responsive_Forward_Backward.ino
+    │       └── Ultrasionic_code.ino
+    ├── LineFollower
+    │   └── V1.0
+    │       └── temp.txt
+    └── ManualSumo
+        └── V1.0
+            ├── Analog_Joystick.ino
+            ├── BT_RECEIVER_MOTORS.ino
+            └── Joystick_Sensing.ino
 ```
 
 ## Adding Code
