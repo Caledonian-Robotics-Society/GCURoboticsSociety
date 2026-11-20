@@ -1,7 +1,7 @@
 # GCU Robotics Society Github
 
-<div align="center">
-![CRS_logo](./Assets/Logo.png)
+<div data-importer="image" align="center">
+  <img data-importer="image"  src=./Assets/Logo.png  />
 </div>
 
 This is the official repository for the Caledonian Robotics Society. This society was started on 22nd of October 2024. This repository contains the official CAD and code resources.
