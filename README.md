@@ -9,8 +9,8 @@ This is the official repository for the Caledonian Robotics Society. This societ
 ## 🔎 Table of Contents
 - [Teams](#teams)
 - [Filetree](#filetree)
-- [Adding Code](#adding%20code)
-- [Last Updated](#last%20updated)
+- [Adding Code](#adding-code)
+- [Last Updated](#last-updated)
 
 ## 👥 Teams
 
