@@ -10,15 +10,16 @@ This is the official repository for the Caledonian Robotics Society. This societ
 - [Teams](#teams)
 - [Filetree](#filetree)
 - [Adding Code](#adding%20code)
+- [Last Updated](#last%20updated)
 
-## Teams
+## 👥 Teams
 
 There are 3 teams in the Caledonian Robotics Society
 - Autonomous Sumo
 - Remote Controlled Sumo
 - Line Follower
 
-## Filetree
+## 🗂️ Filetree
 
 The Files have the following structure:  *(update when needed)*
 
@@ -48,7 +49,7 @@ main
             └── Joystick_Sensing.ino
 ```
 
-## Adding Code
+## 🧑‍💻 Adding Code
 
 Due to the nature of this repo a pull request rule has been added. Essentially meaning that when you add a file a personal branch of the project will be made which you can update all you want, and a pull request will be made. This in essence means you are requesting changes, these will be reviewed by the admins and (hopefully) be accepted and applied to the main branch. This is to ensure no "bad actors" break the code, we hope you understand.
 
